@@ -1,6 +1,6 @@
 # accept-eth-contracts
 
-Ethereum contracts used in accept marketplace
+Ethereum contracts used in Accept marketplace
 
 ## Compile smart contracts
 
